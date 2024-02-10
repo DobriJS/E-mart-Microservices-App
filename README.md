@@ -1,3 +1,2 @@
-# emart-app
-
-    ![alt text](/diagram.png)
+# EMart-Microservices
+![diagram](diagram.png)
