@@ -1,3 +1,3 @@
-# Emart-Application 
+# Emart-Microservices
 
-    ![app diagram](/diagram.png)
+    ![app diagram](https://github.com/DobriJS/Emart-Microservices-App/blob/main/diagram.png?raw=true)
