@@ -1,3 +1,3 @@
 # emart-app
 
-    ![alt text](/img/diagram.png)
+    ![alt text](/diagram.png)
