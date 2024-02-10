@@ -1,3 +1,3 @@
 # emart-app
 
-    ![alt text](https://github.com/DobriJS/E-mart-Microservices-App/blob/main/img/diagram.png)
+	[emart](https://www.example.com](https://github.com/DobriJS/E-mart-Microservices-App/blob/main/img/diagram.png)https://github.com/DobriJS/E-mart-Microservices-App/blob/main/img/diagram.png)
